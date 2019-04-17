@@ -1,0 +1,6 @@
+framework module Pods_NewsMemo {
+  umbrella header "Pods-NewsMemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
